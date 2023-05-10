@@ -21,6 +21,7 @@ Get the APK file here: [APK File](https://github.com/botmeo/Hyper-Casual-Runner/
 ## Packages in use
 * [Path Creator](https://assetstore.unity.com/packages/tools/utilities/b-zier-path-creator-136082)
 * [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
+* [PlayerPrefs Editor](https://assetstore.unity.com/packages/tools/utilities/playerprefs-editor-167903)
 
 ## Tools
 * Unity 2022.2.10f1 
