@@ -24,6 +24,6 @@ Get the APK file here: [APK File](https://github.com/botmeo/Hyper-Casual-Runner/
 * [PlayerPrefs Editor](https://assetstore.unity.com/packages/tools/utilities/playerprefs-editor-167903)
 
 ## Tools
-* Unity 2022.2.10f1 
+* Unity 2022.2.10 
 * Visual Studio 2022
 * C#
