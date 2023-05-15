@@ -5,11 +5,11 @@ Hyper Casual Runner is a racing simulation game, where players need to collect c
 
 ## Gameplay:
 <div style="display: flex; justify-content: space-between;">
-<img src="https://i.ibb.co/nrPdqHm/Screenshot-2023-04-21-221259.jpg" alt="HyperCasualRunner Gameplay" width="18%" height="18%">
-<img src="https://i.ibb.co/9pbTkKB/Screenshot-2023-04-21-221724.jpg" alt="HyperCasualRunner Gameplay" width="18%" height="18%">
-<img src="https://i.ibb.co/c6Cd1wx/Screenshot-2023-04-21-221407qqq.jpg" alt="HyperCasualRunner Gameplay" width="18%" height="18%">
-<img src="https://i.ibb.co/D7jPFwN/Screenshot-2023-04-21-221621.jpg" alt="HyperCasualRunner Gameplay" width="18%" height="18%">
-<img src="https://i.ibb.co/2W1TvC2/Screenshot-2023-04-21-221454.jpg" alt="HyperCasualRunner Gameplay" width="18%" height="18%">
+<img src="https://img.itch.zone/aW1hZ2UvMjAyODMzMy8xMTkyOTMzOS5qcGc=/original/T3jgiE.jpg" alt="HyperCasualRunner Gameplay" width="18%" height="18%">
+<img src="https://img.itch.zone/aW1hZ2UvMjAyODMzMy8xMTkyOTM0MS5qcGc=/original/IE231%2F.jpg" alt="HyperCasualRunner Gameplay" width="18%" height="18%">
+<img src="https://img.itch.zone/aW1hZ2UvMjAyODMzMy8xMTkyOTM0Mi5qcGc=/original/pTVgAM.jpg" alt="HyperCasualRunner Gameplay" width="18%" height="18%">
+<img src="https://img.itch.zone/aW1hZ2UvMjAyODMzMy8xMTkyOTM1MC5qcGc=/original/D3M1kR.jpg" alt="HyperCasualRunner Gameplay" width="18%" height="18%">
+<img src="https://img.itch.zone/aW1hZ2UvMjAyODMzMy8xMjE4MTA0OC5qcGc=/original/j69JNN.jpg" alt="HyperCasualRunner Gameplay" width="18%" height="18%">
 </div>
 
 ## Controls
