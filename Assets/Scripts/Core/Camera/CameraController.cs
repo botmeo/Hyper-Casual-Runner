@@ -19,8 +19,8 @@ public class CameraController : MonoBehaviour
 
         if (!GameManager.Instance.gameWon && !GameManager.Instance.gameLost)
         {
-            float progress = (float)(playerSize - 1) / 40;
-            Vector3 currentPos = Vector3.Lerp(minPosition, maxPosition, progress);
+            /* float progress = (float)(playerSize - 1) / 40;*/
+            Vector3 currentPos = Vector3.Lerp(minPosition, maxPosition, 0);
             transform.DOLocalMove(currentPos, 1);
         }
 

@@ -1,4 +1,6 @@
 using DG.Tweening;
+using PathCreation.Examples;
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -11,7 +13,8 @@ public class UIManager : MonoBehaviour
     [SerializeField] private GameObject tutorialUI;
     [SerializeField] private GameObject winUI;
     [SerializeField] private GameObject loseUI;
-    [SerializeField] private Text levelText;
+    [SerializeField] private TextMeshProUGUI levelText;
+    [SerializeField] private Slider process;
 
     private void Start()
     {
@@ -36,6 +39,7 @@ public class UIManager : MonoBehaviour
             ActivateUI(loseUI);
         }
         SetLevelText();
+        SetProcessLevel();
     }
 
     private void ActivateUI(GameObject menu)
@@ -55,7 +59,12 @@ public class UIManager : MonoBehaviour
     private void SetLevelText()
     {
         int currentLevel = PlayerPrefs.GetInt("CurrentLevel", 1);
-        levelText.text = "LEVEL " + currentLevel.ToString();
+        levelText.text = currentLevel.ToString();
+    }
+
+    private void SetProcessLevel()
+    {
+        process.value = PathFollower.Instance.pathProgress;
     }
 
     public void OpenSettings()

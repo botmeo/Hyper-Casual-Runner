@@ -23,9 +23,10 @@ public class PlayerSize : MonoBehaviour
         if (size != currentSize)
         {
             sizeText.text = playerSize.ToString();
-            sizeText.transform.parent.DOPunchScale(new Vector3(0.1f, 0.1f, 0.1f), 0.25f);
+            // Change size player
+            /*sizeText.transform.parent.DOPunchScale(new Vector3(0.1f, 0.1f, 0.1f), 0.25f);
             transform.DOScale(new Vector3(size, size, size), 0.5f).SetEase(Ease.OutBack);
-            currentSize = size;
+            currentSize = size;*/
         }
         if (GameManager.Instance.gameWon)
         {

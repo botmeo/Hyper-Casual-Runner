@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 558082715383741647}
   m_Layer: 0
   m_Name: Obstacle-14.002
-  m_TagString: Block
+  m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -120,7 +120,7 @@ GameObject:
   - component: {fileID: 7539317460061017445}
   m_Layer: 0
   m_Name: Obstacle-14.000
-  m_TagString: Untagged
+  m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -257,9 +257,10 @@ GameObject:
   - component: {fileID: 2274406167252185097}
   - component: {fileID: 4498989254704587936}
   - component: {fileID: 6781147336260589812}
+  - component: {fileID: 1511583366521702691}
   m_Layer: 0
   m_Name: Obstacle-14.001
-  m_TagString: Untagged
+  m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -330,3 +331,25 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &1511583366521702691
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5120940270196194028}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 6314509530177578792, guid: 4d1d3f4f619fdee4ca95ec16c8d663ae, type: 3}

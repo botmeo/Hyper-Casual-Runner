@@ -1,8 +1,11 @@
 {
   "dependencies": {
+    "com.unity.2d.psdimporter": "8.0.2",
     "com.unity.collab-proxy": "2.0.0",
+    "com.unity.device-simulator.devices": "1.0.0",
     "com.unity.feature.development": "1.0.1",
     "com.unity.probuilder": "5.0.7",
+    "com.unity.services.levelplay": "1.0.0",
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.timeline": "1.7.3",
     "com.unity.toolchain.win-x86_64-linux-x86_64": "2.0.4",
